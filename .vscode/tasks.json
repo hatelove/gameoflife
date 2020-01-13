@@ -6,7 +6,7 @@
         {
             "label": "tcr",
             "type": "shell",
-            "command": ".\\tcr.sh"
+            "command": "${relativeFileDirname}/../tcr.sh"
         }
     ]
 }
